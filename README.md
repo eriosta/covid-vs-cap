@@ -1,4 +1,4 @@
-# DenseNet121 trained on COVIDx CX3 and Pnemonia CXR using GCP A100 40 GB
+# DenseNet121 trained on COVIDx CX3 and Pnemonia CXR using GCP A100 40 GB GPU
 
 Go to the Heroku app [HERE](https://covid-vs-cap.herokuapp.com/docs).
 
