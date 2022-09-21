@@ -1,6 +1,6 @@
 # DenseNet121 trained on COVIDx CX3 and Pnemonia CXR using GCP A100 40 GB
 
-Got to the Heroku app [HERE](https://covid-vs-cap.herokuapp.com/docs).
+Go to the Heroku app [HERE](https://covid-vs-cap.herokuapp.com/docs).
 
 Accuracy on train: 0.9879046082496643
 
